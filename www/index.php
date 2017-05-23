@@ -1,7 +1,7 @@
 <?php
 
 for($i=1;$i<=10;$i++) {
-  echo "Programujem na tatovom notebooku<br>";
+  echo "Programujem na tatovom notebooku !<br>";
 }  
 
 echo "<br>";
