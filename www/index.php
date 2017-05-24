@@ -1,6 +1,6 @@
 <?php
 
-for($i=1;$i<=10;$i++) {
+for($i=1;$i<=5;$i++) {
   echo "Programujem na tatovom notebooku ...<br>";
 }  
 
